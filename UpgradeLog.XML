@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReportTools">
+</Property><Property Name="方案檔" Value="C:\code\ReportTools\ReportTools.sln">
+</Property><Property Name="使用者選項檔" Value="C:\code\ReportTools\ReportTools.suo">
+</Property><Property Name="Date" Value="Friday, 24 April, 2009">
+</Property><Property Name="Time" Value="9:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReportTools.sln" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ReportTools.suo" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools.suo">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\ReportTools.csproj" Description="專案檔已成功備份為 C:\code\ReportTools\Backup\ReportTools\ReportTools.csproj">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Form1.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Form1.Designer.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\MDIParent1.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\MDIParent1.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\MDIParent1.Designer.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\MDIParent1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Program.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Program.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\ReptDefOpForm.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\ReptDefOpForm.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\ReptDefOpForm.Designer.cs" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\ReptDefOpForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Properties\Settings.settings" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Form1.resx" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\MDIParent1.resx" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\MDIParent1.resx">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\Properties\Resources.resx" Description="檔案已成功備份為 C:\code\ReportTools\Backup\ReportTools\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\ReportTools.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ReportTools" Source="ReportTools\ReportTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReportTools.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ReportTools.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReportTools" Source="ReportTools\ReportTools.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
